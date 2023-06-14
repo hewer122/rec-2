@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+	form{
+	background:linear-gradient(to left,#35f22e,#27f253,#30f2b8);
+		width: 60vw;
+		min-height: 20vh;
+		margin-left: 20vw;
+		margin-top: 5vw;
+		border-radius: 10px;
+		color:#7cdaa0;
+		text-align: center;
+        border-radius: 22px;
+	}
